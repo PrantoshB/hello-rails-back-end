@@ -60,6 +60,10 @@ In order to run this project you need:
 - Install Postgresql
 - Understanding of Ruby
 
+### Frontend
+
+Here is the [Front-End](https://github.com/PrantoshB/hello-react-front-end) of this app.
+
 ### Setup
 
 - Clone this repository to your desired folder:
