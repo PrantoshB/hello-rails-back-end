@@ -11,7 +11,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Hello Rails Back-end ](#-hello-rails-backend-)
+- [📖 Hello Rails Back-end ](#-hello-rails-back-end-)
   - [🛠 Built With ](#-built-with-)
   - [🛠 Tech Stack ](#-tech-stack-)
     - [Key Features ](#key-features-)
@@ -71,7 +71,7 @@ In order to run this project you need:
 - Navigate into the cloned folder
 
 ```sh
- cd hello-rails-react
+ cd hello-rails-back-end
 ```
 ### Install
 
@@ -113,7 +113,7 @@ In order to run this project you need:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/prantoshb/hello-rails-react/issues).
+Feel free to check the [issues page](https://github.com/prantoshb/hello-rails-back-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
